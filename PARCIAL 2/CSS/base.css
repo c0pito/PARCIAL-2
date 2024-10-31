@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.itemnav{
+    margin-left: 20px;
+    display: inline-block;
+    height: 50px;
+    line-height: 50px;
+    color: white;
+    padding: 0px 10px;
+}
+
+#navbar{
+    background-color: #0f3880 ;
+    height: 50px;
+    border-bottom: 1px solid black; 
+}
+.itemnav a{
+    color: inherit;
+    text-decoration: none;
+}
+.itemnav:hover{
+    background-color: rgb(51, 134, 278);
+}

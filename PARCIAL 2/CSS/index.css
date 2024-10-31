@@ -1,0 +1,36 @@
+#boton{
+    background-color: #0f3880;
+    margin-left: 7vw;
+}
+#form{
+    display: flex;
+    padding: 2px;
+}
+#formu{
+    border: 5px;
+    padding: 5px ;
+    margin-left: 15px;
+}
+#h1{
+    color: #222847;
+    margin-left: 15px;
+}
+#titulo{
+    color: #222847;
+    text-align: center;
+}
+#d2{
+    margin-left: 15px;
+}
+#carro{
+    padding-left: 15px;
+    margin-left: 40vw;
+}
+img{
+    border: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 40vw;
+}
